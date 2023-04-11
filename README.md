@@ -32,6 +32,8 @@
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Mexico.
 
 - :telescope: I’m working as a Software Engineer
+- - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/jorgeikeda)
+- 
 
 <!--
 **freebot/freebot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
