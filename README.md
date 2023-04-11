@@ -32,10 +32,10 @@
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Mexico.
 
 - :telescope: I’m working as a Software Engineer
-- :memo: I enjoy blogging and technical writing in my free time, and I also like to read tech articles and stay up-to-date with the latest trends in the industry.
+- :memo: I enjoy blogging in my free time, and I also like to read tech articles and stay up-to-date with the latest trends in the industry.
 - :computer: When I'm not writing or working on tech projects, I enjoy coding and experimenting with new technologies, tools, and frameworks. I find it a great way to learn and challenge myself.
 - :family: Outside of work and tech-related activities, spending time with my family is a top priority. We love to explore new places, try out new foods, and watch movies together.
-- - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/jorgeikeda)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/jorgeikeda)
 
 ---
 
