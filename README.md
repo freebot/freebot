@@ -70,6 +70,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
                                                                                                                                          
 <!-- BLOG-POST-LIST:START -->
+- [Ciberleviatán](https://jorgeikeda.medium.com/ciberleviat%C3%A1n-86e0a9e2127e?source=rss-a766cc37cdd6------2)
+- [Nuevo hito](https://jorgeikeda.medium.com/nuevo-hito-5538b1c2582d?source=rss-a766cc37cdd6------2)
+- [Ideología de la inteligencia artificial](https://jorgeikeda.medium.com/ideolog%C3%ADa-de-la-inteligencia-artificial-d29081109b61?source=rss-a766cc37cdd6------2)
+- [Norma Piña](https://jorgeikeda.medium.com/norma-pi%C3%B1a-87c5c198ff94?source=rss-a766cc37cdd6------2)
+- [La UNAM y la ministra pirata](https://jorgeikeda.medium.com/la-unam-y-la-ministra-pirata-63722eda6d7a?source=rss-a766cc37cdd6------2)
 <!-- BLOG-POST-LIST:END -->
 
                                                                                                                                             
