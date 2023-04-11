@@ -57,7 +57,12 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="vuejs" alt="vuejs" width="40" height="40"/>&nbsp;                                                                                                                               
 </div>
+---
 
+### :fire: My Stats :
+                                                                                                                                            
+                                                                                                                                            
+                                                                                                                                            
 <!--
 **freebot/freebot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
