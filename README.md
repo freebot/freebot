@@ -1,3 +1,5 @@
+[via GIPHY](https://giphy.com/gifs/hacktiv8-coding-codingfromhome-fromhome-M9gbBd9nbDrOTu1Mqx)
+
 ### Hi there 👋
 
 <!--
