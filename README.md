@@ -70,11 +70,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
                                                                                                                                          
 <!-- BLOG-POST-LIST:START -->
+- [Xóchitl Galvez](https://jorgeikeda.medium.com/x%C3%B3chitl-galvez-183a88a8c722?source=rss-a766cc37cdd6------2)
 - [Ovejas con piel de lobos](https://jorgeikeda.medium.com/ovejas-con-piel-de-lobos-ca8c92996a6e?source=rss-a766cc37cdd6------2)
 - [Manipulación](https://jorgeikeda.medium.com/manipulaci%C3%B3n-3631b85f6e81?source=rss-a766cc37cdd6------2)
 - [El 18 brumario de Andrés Manuel](https://jorgeikeda.medium.com/el-18-brumario-de-andr%C3%A9s-manuel-9cfbd2ebcfdf?source=rss-a766cc37cdd6------2)
 - [Resentimiento social](https://jorgeikeda.medium.com/resentimiento-social-e3bd58c3dee9?source=rss-a766cc37cdd6------2)
-- [Miedo](https://jorgeikeda.medium.com/miedo-26377e3581b5?source=rss-a766cc37cdd6------2)
 <!-- BLOG-POST-LIST:END -->
 
                                                                                                                                             
