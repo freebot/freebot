@@ -70,11 +70,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
                                                                                                                                          
 <!-- BLOG-POST-LIST:START -->
+- [Lucy Meza](https://jorgeikeda.medium.com/lucy-meza-79321869f647?source=rss-a766cc37cdd6------2)
 - [Los políticos no aprenden](https://jorgeikeda.medium.com/los-pol%C3%ADticos-no-aprenden-49d20e98af1d?source=rss-a766cc37cdd6------2)
 - [Imposibilidad jurídica](https://jorgeikeda.medium.com/imposibilidad-jur%C3%ADdica-8f8954a226b0?source=rss-a766cc37cdd6------2)
 - [Xóchitl Galvez](https://jorgeikeda.medium.com/x%C3%B3chitl-galvez-183a88a8c722?source=rss-a766cc37cdd6------2)
 - [Ovejas con piel de lobos](https://jorgeikeda.medium.com/ovejas-con-piel-de-lobos-ca8c92996a6e?source=rss-a766cc37cdd6------2)
-- [Manipulación](https://jorgeikeda.medium.com/manipulaci%C3%B3n-3631b85f6e81?source=rss-a766cc37cdd6------2)
 <!-- BLOG-POST-LIST:END -->
 
                                                                                                                                             
