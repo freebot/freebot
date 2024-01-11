@@ -70,11 +70,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
                                                                                                                                          
 <!-- BLOG-POST-LIST:START -->
+- [Plagio de El Universal](https://jorgeikeda.medium.com/plagio-de-el-universal-5ce27e552051?source=rss-a766cc37cdd6------2)
+- [Fórmula de peso](https://jorgeikeda.medium.com/f%C3%B3rmula-de-peso-f7b799cd382f?source=rss-a766cc37cdd6------2)
 - [Sobre la opinión de Slavoj Zizek](https://jorgeikeda.medium.com/sobre-la-opini%C3%B3n-de-slavoj-zizek-8b6c51055de1?source=rss-a766cc37cdd6------2)
 - [Lucy Meza](https://jorgeikeda.medium.com/lucy-meza-79321869f647?source=rss-a766cc37cdd6------2)
 - [Los políticos no aprenden](https://jorgeikeda.medium.com/los-pol%C3%ADticos-no-aprenden-49d20e98af1d?source=rss-a766cc37cdd6------2)
-- [Imposibilidad jurídica](https://jorgeikeda.medium.com/imposibilidad-jur%C3%ADdica-8f8954a226b0?source=rss-a766cc37cdd6------2)
-- [Xóchitl Galvez](https://jorgeikeda.medium.com/x%C3%B3chitl-galvez-183a88a8c722?source=rss-a766cc37cdd6------2)
 <!-- BLOG-POST-LIST:END -->
 
                                                                                                                                             
