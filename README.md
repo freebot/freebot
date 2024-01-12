@@ -70,11 +70,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
                                                                                                                                          
 <!-- BLOG-POST-LIST:START -->
-- [Plagio de El Universal](https://jorgeikeda.medium.com/plagio-de-el-universal-5ce27e552051?source=rss-a766cc37cdd6------2)
-- [Fórmula de peso](https://jorgeikeda.medium.com/f%C3%B3rmula-de-peso-f7b799cd382f?source=rss-a766cc37cdd6------2)
-- [Sobre la opinión de Slavoj Zizek](https://jorgeikeda.medium.com/sobre-la-opini%C3%B3n-de-slavoj-zizek-8b6c51055de1?source=rss-a766cc37cdd6------2)
-- [Lucy Meza](https://jorgeikeda.medium.com/lucy-meza-79321869f647?source=rss-a766cc37cdd6------2)
-- [Los políticos no aprenden](https://jorgeikeda.medium.com/los-pol%C3%ADticos-no-aprenden-49d20e98af1d?source=rss-a766cc37cdd6------2)
+- [Cum persecuti fuerint vos in hac civitate, fugite in aliam](https://jorgeikeda.medium.com/cum-persecuti-fuerint-vos-in-hac-civitate-fugite-in-aliam-9928a685a083?source=rss-a766cc37cdd6------2)
+- [El paradigma foucaltiano](https://jorgeikeda.medium.com/el-paradigma-foucaltiano-e149a3cc0769?source=rss-a766cc37cdd6------2)
+- [Decrecimiento económico en Morelos](https://jorgeikeda.medium.com/decrecimiento-econ%C3%B3mico-en-morelos-230691559af0?source=rss-a766cc37cdd6------2)
+- [Polarización](https://jorgeikeda.medium.com/polarizaci%C3%B3n-1ee907e4fee6?source=rss-a766cc37cdd6------2)
+- [La concepción del derecho de AMLO](https://jorgeikeda.medium.com/la-concepci%C3%B3n-del-derecho-de-amlo-4920b98990db?source=rss-a766cc37cdd6------2)
 <!-- BLOG-POST-LIST:END -->
 
                                                                                                                                             
