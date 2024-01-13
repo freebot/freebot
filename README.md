@@ -70,11 +70,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
                                                                                                                                          
 <!-- BLOG-POST-LIST:START -->
-- [Cum persecuti fuerint vos in hac civitate, fugite in aliam](https://jorgeikeda.medium.com/cum-persecuti-fuerint-vos-in-hac-civitate-fugite-in-aliam-9928a685a083?source=rss-a766cc37cdd6------2)
-- [El paradigma foucaltiano](https://jorgeikeda.medium.com/el-paradigma-foucaltiano-e149a3cc0769?source=rss-a766cc37cdd6------2)
-- [Decrecimiento económico en Morelos](https://jorgeikeda.medium.com/decrecimiento-econ%C3%B3mico-en-morelos-230691559af0?source=rss-a766cc37cdd6------2)
-- [Polarización](https://jorgeikeda.medium.com/polarizaci%C3%B3n-1ee907e4fee6?source=rss-a766cc37cdd6------2)
-- [La concepción del derecho de AMLO](https://jorgeikeda.medium.com/la-concepci%C3%B3n-del-derecho-de-amlo-4920b98990db?source=rss-a766cc37cdd6------2)
+- [Summa Potestas Superiorem Non Recognos Cens](https://jorgeikeda.medium.com/summa-potestas-superiorem-non-recognos-cens-e265b67c01e8?source=rss-a766cc37cdd6------2)
+- [La Profesión de fe del Vicario Saboyano](https://jorgeikeda.medium.com/la-profesi%C3%B3n-de-fe-del-vicario-saboyano-0137d70cb813?source=rss-a766cc37cdd6------2)
+- [Postverdad](https://jorgeikeda.medium.com/postverdad-f1cfaabae0d6?source=rss-a766cc37cdd6------2)
+- [Despotismo](https://jorgeikeda.medium.com/despotismo-424ac216c07f?source=rss-a766cc37cdd6------2)
+- [Bienvenidos al autoritarismo](https://jorgeikeda.medium.com/bienvenidos-al-autoritarismo-cca5c73a4ab1?source=rss-a766cc37cdd6------2)
 <!-- BLOG-POST-LIST:END -->
 
                                                                                                                                             
