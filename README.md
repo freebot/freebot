@@ -70,11 +70,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
                                                                                                                                          
 <!-- BLOG-POST-LIST:START -->
+- [El genio y la intolerancia](https://jorgeikeda.medium.com/el-genio-y-la-intolerancia-6100057074fd?source=rss-a766cc37cdd6------2)
 - [Theatrum mundi](https://jorgeikeda.medium.com/theatrum-mundi-7336257397c8?source=rss-a766cc37cdd6------2)
 - [Liber mundi](https://jorgeikeda.medium.com/liber-mundi-a754d21ee4de?source=rss-a766cc37cdd6------2)
 - [Sefer Yesirah](https://jorgeikeda.medium.com/sefer-yesirah-e9d493e94f86?source=rss-a766cc37cdd6------2)
 - [Mulier amicta sole, et luna sub pedibus eius](https://jorgeikeda.medium.com/mulier-amicta-sole-et-luna-sub-pedibus-eius-71aaf2159188?source=rss-a766cc37cdd6------2)
-- [La bella mentira y la fea verdad](https://jorgeikeda.medium.com/la-bella-mentira-y-la-fea-verdad-96574ddcc305?source=rss-a766cc37cdd6------2)
 <!-- BLOG-POST-LIST:END -->
 
                                                                                                                                             
