@@ -70,11 +70,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
                                                                                                                                          
 <!-- BLOG-POST-LIST:START -->
+- [Xóchitl Gálvez en su inicio de campaña 2024](https://jorgeikeda.medium.com/x%C3%B3chitl-g%C3%A1lvez-en-su-inicio-de-campa%C3%B1a-2024-c048eeda7097?source=rss-a766cc37cdd6------2)
 - [Renovación de pasaporte](https://jorgeikeda.medium.com/renovaci%C3%B3n-de-pasaporte-4ba1f5e1d05e?source=rss-a766cc37cdd6------2)
 - [Padre de familia &lpar;Family Guy&rpar;](https://jorgeikeda.medium.com/padre-de-familia-family-guy-b9def3ae1847?source=rss-a766cc37cdd6------2)
 - [El mérito y el cristianismo](https://jorgeikeda.medium.com/m%C3%A9rito-y-el-cristianismo-d1799d937d7c?source=rss-a766cc37cdd6------2)
 - [El genio y la intolerancia](https://jorgeikeda.medium.com/el-genio-y-la-intolerancia-6100057074fd?source=rss-a766cc37cdd6------2)
-- [Theatrum mundi](https://jorgeikeda.medium.com/theatrum-mundi-7336257397c8?source=rss-a766cc37cdd6------2)
 <!-- BLOG-POST-LIST:END -->
 
                                                                                                                                             
