@@ -70,11 +70,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
                                                                                                                                          
 <!-- BLOG-POST-LIST:START -->
+- [Los 8 hermanos de la familia Kimura](https://jorgeikeda.medium.com/los-8-hermanos-de-la-familia-kimura-ba36f5ae47c8?source=rss-a766cc37cdd6------2)
 - [La Oaxaqueña](https://jorgeikeda.medium.com/la-oaxaque%C3%B1a-e2ca54b55cc2?source=rss-a766cc37cdd6------2)
 - [La foto que resolvió el misterio](https://jorgeikeda.medium.com/la-foto-que-resolvi%C3%B3-el-misterio-305bfd733bd4?source=rss-a766cc37cdd6------2)
 - [Xóchitl Gálvez en su inicio de campaña 2024](https://jorgeikeda.medium.com/x%C3%B3chitl-g%C3%A1lvez-en-su-inicio-de-campa%C3%B1a-2024-c048eeda7097?source=rss-a766cc37cdd6------2)
 - [Renovación de pasaporte](https://jorgeikeda.medium.com/renovaci%C3%B3n-de-pasaporte-4ba1f5e1d05e?source=rss-a766cc37cdd6------2)
-- [Padre de familia &lpar;Family Guy&rpar;](https://jorgeikeda.medium.com/padre-de-familia-family-guy-b9def3ae1847?source=rss-a766cc37cdd6------2)
 <!-- BLOG-POST-LIST:END -->
 
                                                                                                                                             
