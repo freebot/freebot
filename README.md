@@ -70,11 +70,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
                                                                                                                                          
 <!-- BLOG-POST-LIST:START -->
+- [Yurei 幽霊](https://jorgeikeda.medium.com/yurei-%E5%B9%BD%E9%9C%8A-88d847516971?source=rss-a766cc37cdd6------2)
 - [AI is law](https://jorgeikeda.medium.com/ai-is-law-7da7c449d18c?source=rss-a766cc37cdd6------2)
 - [Regulación de la IA en Europa](https://jorgeikeda.medium.com/regulaci%C3%B3n-de-la-ia-en-europa-9c7201293d2e?source=rss-a766cc37cdd6------2)
 - [Maxipejemato](https://jorgeikeda.medium.com/maxipejemato-fe8e5a5eb7a7?source=rss-a766cc37cdd6------2)
 - [Reflexiones sobre las elecciones de 2024](https://jorgeikeda.medium.com/reflexiones-sobre-las-elecciones-de-2024-fb270784e5a6?source=rss-a766cc37cdd6------2)
-- [La teoría del Internet muerto](https://jorgeikeda.medium.com/la-teor%C3%ADa-del-internet-muerto-7c2fd69f72d0?source=rss-a766cc37cdd6------2)
 <!-- BLOG-POST-LIST:END -->
 
                                                                                                                                             
