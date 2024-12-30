@@ -70,11 +70,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
                                                                                                                                          
 <!-- BLOG-POST-LIST:START -->
+- [¿Puede la inteligencia artificial contratar a un abogado?](https://jorgeikeda.medium.com/puede-la-inteligencia-artificial-contratar-a-un-abogado-362e57fbaabd?source=rss-a766cc37cdd6------2)
 - [Bitfinex](https://jorgeikeda.medium.com/bitfinex-b0316e91f12c?source=rss-a766cc37cdd6------2)
 - [Hibakusha &lpar;被爆者&rpar;](https://jorgeikeda.medium.com/hibakusha-%E8%A2%AB%E7%88%86%E8%80%85-e9f5cf79cc81?source=rss-a766cc37cdd6------2)
 - [Educación woke](https://jorgeikeda.medium.com/educaci%C3%B3n-woke-ab512534b9b8?source=rss-a766cc37cdd6------2)
 - [Estado de silencio](https://jorgeikeda.medium.com/estado-de-silencio-5a0708cc8d71?source=rss-a766cc37cdd6------2)
-- [Yurei 幽霊](https://jorgeikeda.medium.com/yurei-%E5%B9%BD%E9%9C%8A-88d847516971?source=rss-a766cc37cdd6------2)
 <!-- BLOG-POST-LIST:END -->
 
                                                                                                                                             
