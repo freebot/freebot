@@ -70,11 +70,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
                                                                                                                                          
 <!-- BLOG-POST-LIST:START -->
+- [Los otros datos de Claudia](https://jorgeikeda.medium.com/los-otros-datos-de-claudia-02909bf25ff6?source=rss-a766cc37cdd6------2)
 - [EEUU va a atacar a los cárteles en México](https://jorgeikeda.medium.com/eeuu-va-a-atacar-a-los-c%C3%A1rteles-en-m%C3%A9xico-0ba6c977f92f?source=rss-a766cc37cdd6------2)
 - [DeepSeek AI Demystified: A Beginner’s Guide to the Future](https://jorgeikeda.medium.com/deepseek-ai-demystified-a-beginners-guide-to-the-future-b1783c1b71ea?source=rss-a766cc37cdd6------2)
 - [Trump 2.0](https://jorgeikeda.medium.com/trump-2-0-7b3fecc8bfc3?source=rss-a766cc37cdd6------2)
 - [¿Puede la inteligencia artificial contratar a un abogado?](https://jorgeikeda.medium.com/puede-la-inteligencia-artificial-contratar-a-un-abogado-362e57fbaabd?source=rss-a766cc37cdd6------2)
-- [Bitfinex](https://jorgeikeda.medium.com/bitfinex-b0316e91f12c?source=rss-a766cc37cdd6------2)
 <!-- BLOG-POST-LIST:END -->
 
                                                                                                                                             
