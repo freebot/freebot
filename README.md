@@ -70,11 +70,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
                                                                                                                                          
 <!-- BLOG-POST-LIST:START -->
+- [Los aranceles de Trump: ¿el mejor negociador o el bully del recreo?](https://jorgeikeda.medium.com/los-aranceles-de-trump-el-mejor-negociador-o-el-bully-del-recreo-6e162d1d55da?source=rss-a766cc37cdd6------2)
 - [Teuchitlán](https://jorgeikeda.medium.com/teuchitl%C3%A1n-03c1b742a9d4?source=rss-a766cc37cdd6------2)
 - [Los aranceles van](https://jorgeikeda.medium.com/los-aranceles-van-c39646da7314?source=rss-a766cc37cdd6------2)
 - [Los otros datos de Claudia](https://jorgeikeda.medium.com/los-otros-datos-de-claudia-02909bf25ff6?source=rss-a766cc37cdd6------2)
 - [EEUU va a atacar a los cárteles en México](https://jorgeikeda.medium.com/eeuu-va-a-atacar-a-los-c%C3%A1rteles-en-m%C3%A9xico-0ba6c977f92f?source=rss-a766cc37cdd6------2)
-- [DeepSeek AI Demystified: A Beginner’s Guide to the Future](https://jorgeikeda.medium.com/deepseek-ai-demystified-a-beginners-guide-to-the-future-b1783c1b71ea?source=rss-a766cc37cdd6------2)
 <!-- BLOG-POST-LIST:END -->
 
                                                                                                                                             
