@@ -70,11 +70,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
                                                                                                                                          
 <!-- BLOG-POST-LIST:START -->
+- [Caldo gordo](https://jorgeikeda.medium.com/caldo-gordo-1e76bc117233?source=rss-a766cc37cdd6------2)
 - [Trump se acobardó](https://jorgeikeda.medium.com/trump-se-acobard%C3%B3-1a8ddba714d7?source=rss-a766cc37cdd6------2)
 - [Los aranceles de Trump: ¿el mejor negociador o el bully del recreo?](https://jorgeikeda.medium.com/los-aranceles-de-trump-el-mejor-negociador-o-el-bully-del-recreo-6e162d1d55da?source=rss-a766cc37cdd6------2)
 - [Teuchitlán](https://jorgeikeda.medium.com/teuchitl%C3%A1n-03c1b742a9d4?source=rss-a766cc37cdd6------2)
 - [Los aranceles van](https://jorgeikeda.medium.com/los-aranceles-van-c39646da7314?source=rss-a766cc37cdd6------2)
-- [Los otros datos de Claudia](https://jorgeikeda.medium.com/los-otros-datos-de-claudia-02909bf25ff6?source=rss-a766cc37cdd6------2)
 <!-- BLOG-POST-LIST:END -->
 
                                                                                                                                             
