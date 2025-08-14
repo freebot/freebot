@@ -70,11 +70,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
                                                                                                                                          
 <!-- BLOG-POST-LIST:START -->
+- [La paradoja de Trump](https://jorgeikeda.medium.com/la-paradoja-de-trump-2c427124669a?source=rss-a766cc37cdd6------2)
 - [Ataque inminente](https://jorgeikeda.medium.com/ataque-inminente-5d7d1d3c4105?source=rss-a766cc37cdd6------2)
 - [Casus belli](https://jorgeikeda.medium.com/casus-belli-31f098ea4104?source=rss-a766cc37cdd6------2)
 - [Las metamorfosis de Ovidio](https://jorgeikeda.medium.com/las-metamorfosis-de-ovidio-b925fc5db960?source=rss-a766cc37cdd6------2)
 - [La vulnerabilidad de México](https://jorgeikeda.medium.com/la-vulnerabilidad-de-m%C3%A9xico-f3fb538af3ac?source=rss-a766cc37cdd6------2)
-- [Guerra psicológica](https://jorgeikeda.medium.com/guerra-psicol%C3%B3gica-b6da47a1bbde?source=rss-a766cc37cdd6------2)
 <!-- BLOG-POST-LIST:END -->
 
                                                                                                                                             
