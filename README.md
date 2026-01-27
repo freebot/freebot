@@ -70,11 +70,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
                                                                                                                                          
 <!-- BLOG-POST-LIST:START -->
+- [Venezuela, el fantasma que recorre América: ¿qué dicen México y EE.UU.? | De die in diem](https://jorgeikeda.medium.com/venezuela-el-fantasma-que-recorre-am%C3%A9rica-qu%C3%A9-dicen-m%C3%A9xico-y-ee-uu-de-die-in-diem-3ddf4c92307a?source=rss-a766cc37cdd6------2)
 - [Ahí viene el coco](https://jorgeikeda.medium.com/ah%C3%AD-viene-el-coco-8f95662e5457?source=rss-a766cc37cdd6------2)
 - [Mensaje para México](https://jorgeikeda.medium.com/mensaje-para-m%C3%A9xico-26e327b5fc1f?source=rss-a766cc37cdd6------2)
 - [Ataque a Venezuela](https://jorgeikeda.medium.com/ataque-a-venezuela-becb068d44ca?source=rss-a766cc37cdd6------2)
 - [La paradoja de Trump](https://jorgeikeda.medium.com/la-paradoja-de-trump-2c427124669a?source=rss-a766cc37cdd6------2)
-- [Ataque inminente](https://jorgeikeda.medium.com/ataque-inminente-5d7d1d3c4105?source=rss-a766cc37cdd6------2)
 <!-- BLOG-POST-LIST:END -->
 
                                                                                                                                             
