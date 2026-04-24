@@ -70,11 +70,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
                                                                                                                                          
 <!-- BLOG-POST-LIST:START -->
+- [Riesgos sistémicos de la IA y su impacto en la gobernanza global](https://jorgeikeda.medium.com/riesgos-sist%C3%A9micos-de-la-ia-y-su-impacto-en-la-gobernanza-global-a68b22d1e37f?source=rss-a766cc37cdd6------2)
 - [Mythos](https://jorgeikeda.medium.com/mythos-cf44f6f5d729?source=rss-a766cc37cdd6------2)
 - [Shameless&lpar;EE.UU.&rpar;](https://jorgeikeda.medium.com/shameless-eeuu-6e42657f6357?source=rss-a766cc37cdd6------2)
 - [El derrumbe de Bitcoin](https://jorgeikeda.medium.com/el-derrumbe-de-bitcoin-a8d2c39b1ecf?source=rss-a766cc37cdd6------2)
 - [La caída del Mencho](https://jorgeikeda.medium.com/la-ca%C3%ADda-del-mencho-0d3cab34cd09?source=rss-a766cc37cdd6------2)
-- [Soberanía con hidrocarburos prestados: México, Cuba y la geometría variable de la presión…](https://jorgeikeda.medium.com/soberan%C3%ADa-con-hidrocarburos-prestados-m%C3%A9xico-cuba-y-la-geometr%C3%ADa-variable-de-la-presi%C3%B3n-08ee407196df?source=rss-a766cc37cdd6------2)
 <!-- BLOG-POST-LIST:END -->
 
                                                                                                                                             
