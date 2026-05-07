@@ -70,11 +70,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
                                                                                                                                          
 <!-- BLOG-POST-LIST:START -->
+- [Sinaloa Lab y la narcopolítica en México](https://jorgeikeda.medium.com/sinaloa-lab-y-la-narcopol%C3%ADtica-en-m%C3%A9xico-e2fd325ce219?source=rss-a766cc37cdd6------2)
 - [México optó por no cooperar con EEUU](https://jorgeikeda.medium.com/m%C3%A9xico-opt%C3%B3-por-no-cooperar-con-eeuu-3a50793baac4?source=rss-a766cc37cdd6------2)
 - [La soga al cuello](https://jorgeikeda.medium.com/la-soga-al-cuello-b8b3de4317e5?source=rss-a766cc37cdd6------2)
 - [Riesgos sistémicos de la IA y su impacto en la gobernanza global](https://jorgeikeda.medium.com/riesgos-sist%C3%A9micos-de-la-ia-y-su-impacto-en-la-gobernanza-global-a68b22d1e37f?source=rss-a766cc37cdd6------2)
 - [Mythos](https://jorgeikeda.medium.com/mythos-cf44f6f5d729?source=rss-a766cc37cdd6------2)
-- [Shameless&lpar;EE.UU.&rpar;](https://jorgeikeda.medium.com/shameless-eeuu-6e42657f6357?source=rss-a766cc37cdd6------2)
 <!-- BLOG-POST-LIST:END -->
 
                                                                                                                                             
