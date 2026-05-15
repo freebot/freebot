@@ -70,11 +70,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
                                                                                                                                          
 <!-- BLOG-POST-LIST:START -->
+- [Morena, organización terrorista](https://jorgeikeda.medium.com/morena-organizaci%C3%B3n-terrorista-070a5120621e?source=rss-a766cc37cdd6------2)
 - [CNN: La CIA mató a un narco en México](https://jorgeikeda.medium.com/cnn-la-cia-mat%C3%B3-a-un-narco-en-m%C3%A9xico-72e16334d1e1?source=rss-a766cc37cdd6------2)
 - [¿Es Trump un idiota o un visionario?](https://jorgeikeda.medium.com/es-trump-un-idiota-o-un-visionario-7600b7c23095?source=rss-a766cc37cdd6------2)
 - [Sinaloa Lab y la narcopolítica en México](https://jorgeikeda.medium.com/sinaloa-lab-y-la-narcopol%C3%ADtica-en-m%C3%A9xico-e2fd325ce219?source=rss-a766cc37cdd6------2)
 - [México optó por no cooperar con EEUU](https://jorgeikeda.medium.com/m%C3%A9xico-opt%C3%B3-por-no-cooperar-con-eeuu-3a50793baac4?source=rss-a766cc37cdd6------2)
-- [La soga al cuello](https://jorgeikeda.medium.com/la-soga-al-cuello-b8b3de4317e5?source=rss-a766cc37cdd6------2)
 <!-- BLOG-POST-LIST:END -->
 
                                                                                                                                             
