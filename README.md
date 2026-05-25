@@ -70,11 +70,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
                                                                                                                                          
 <!-- BLOG-POST-LIST:START -->
+- [La 4T no entiende que no entiende](https://jorgeikeda.medium.com/la-4t-no-entiende-que-no-entiende-e22efc8e6664?source=rss-a766cc37cdd6------2)
 - [El viernes negro de Morena](https://jorgeikeda.medium.com/el-viernes-negro-de-morena-692e12c4841d?source=rss-a766cc37cdd6------2)
 - [Morena, organización terrorista](https://jorgeikeda.medium.com/morena-organizaci%C3%B3n-terrorista-070a5120621e?source=rss-a766cc37cdd6------2)
 - [CNN: La CIA mató a un narco en México](https://jorgeikeda.medium.com/cnn-la-cia-mat%C3%B3-a-un-narco-en-m%C3%A9xico-72e16334d1e1?source=rss-a766cc37cdd6------2)
 - [¿Es Trump un idiota o un visionario?](https://jorgeikeda.medium.com/es-trump-un-idiota-o-un-visionario-7600b7c23095?source=rss-a766cc37cdd6------2)
-- [Sinaloa Lab y la narcopolítica en México](https://jorgeikeda.medium.com/sinaloa-lab-y-la-narcopol%C3%ADtica-en-m%C3%A9xico-e2fd325ce219?source=rss-a766cc37cdd6------2)
 <!-- BLOG-POST-LIST:END -->
 
                                                                                                                                             
